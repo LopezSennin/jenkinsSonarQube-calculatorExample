@@ -1,0 +1,1 @@
+# jenkinsSonarQube-calculatorExample
